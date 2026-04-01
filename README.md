@@ -14,7 +14,7 @@ These tools are designed to support security engineers and administrators respon
 
 | Script | Description | Category |
 |--------|-------------|----------|
-| `Invoke-CompromisedAccountResponse.ps1` | Automated response to compromised M365 accounts — disable, revoke sessions, capture forensic data, audit mailbox rules | Incident Response |
+| [`Invoke-CompromisedAccountResponse.ps1`](Incident-Response/Invoke-CompromisedAccountResponse.ps1) | Automated response to compromised M365 accounts — disable, revoke sessions, capture forensic data, audit mailbox rules, forwarding, delegates, MFA, and OAuth permissions | Incident Response |
 
 *Additional tools added continuously.*
 
